@@ -1,1 +1,1 @@
-# Selenium_Swag_Lab_PyTest
+# Selenium_Swag_Lab case'leri PyTest ile kosuldu.
